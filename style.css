@@ -4,6 +4,10 @@ Body {
     
 }
 
+ul {
+  padding: 0px;
+}
+
 .card-white {
     width: 500px;
     margin: 0 auto;
