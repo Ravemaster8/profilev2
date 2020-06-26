@@ -73,7 +73,9 @@ ul {
 
 
   @media (max-width: 540px){
-    .container { width: 500px;
+    .container { 
+        width: 100%;
+        height: 100%;
 
   }
   
